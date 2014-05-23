@@ -1,4 +1,4 @@
 medfunctions
 ============
 
-medfunctions
+medialis.net Wordpress functions
